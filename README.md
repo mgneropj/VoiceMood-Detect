@@ -207,7 +207,7 @@ docs/prediction.png
 
 B.Tech – Artificial Intelligence & Data Science
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/mgneropj
 
 LinkedIn: https://www.linkedin.com/in/rushikesh-kolhe-174177292/
 
